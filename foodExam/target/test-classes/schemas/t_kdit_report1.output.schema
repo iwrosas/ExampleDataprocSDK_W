@@ -1,0 +1,65 @@
+{
+  "namespace": "KDIT",
+  "name": "t_kdit_report1",
+  "doc": "Final Report",
+  "database": "master",
+  "type": "record",
+  "fields": [{
+            "name": "NAME",
+            "type": "string",
+            "legacyName": "",
+            "logicalFormat": "ALPHANUMERIC(64)",
+            "deleted": false,
+            "metadata": false,
+            "default": ""
+        }, {
+            "name": "PREFERENCES",
+            "type": "string",
+            "legacyName": "",
+            "logicalFormat": "ALPHANUMERIC(64)",
+            "deleted": false,
+            "metadata": false,
+            "default": ""
+        }, {
+            "name": "SPICY_TOLERANCE",
+            "type": "int",
+            "legacyName": "",
+            "logicalFormat": "ALPHANUMERIC(64)",
+            "deleted": false,
+            "metadata": false,
+            "default": ""
+        }, {
+            "name": "NATIONALITY",
+            "type": "string",
+            "legacyName": "",
+            "logicalFormat": "ALPHANUMERIC(64)",
+            "deleted": false,
+            "metadata": false,
+            "default": ""
+        }, {
+            "name": "GENRE",
+            "type": "string",
+            "legacyName": "",
+            "logicalFormat": "ALPHANUMERIC(64)",
+            "deleted": false,
+            "metadata": false,
+            "default": ""
+        }, {
+            "name": "FOOD_LIST",
+            "type": "string",
+            "legacyName": "",
+            "logicalFormat": "ALPHANUMERIC(64)",
+            "deleted": false,
+            "metadata": false,
+            "default": ""
+        }, {
+            "name": "ROW_NUMBER",
+            "type": "int",
+            "legacyName": "",
+            "logicalFormat": "ALPHANUMERIC(64)",
+            "deleted": false,
+            "metadata": false,
+            "default": ""
+        }
+   ]
+}

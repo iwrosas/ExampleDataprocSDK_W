@@ -1,0 +1,30 @@
+CODE|NAME|SPICY_LEVEL|ZONE|CONTAINS_ANIMAL_PRODUCTS
+01|torta de gelatina|1|NORTH|N
+02|huevo con camarones|3|SOUTH|Y
+03|mole de garbanzo|3|SOUTH|Y
+04|cerveza y mariscos|7|CENTRAL|Y
+05|caldo de piedra|6|SOUTH|Y
+06|estofado de boda|1|SOUTH|Y
+07|tlayuda de chapulines|5|SOUTH|Y
+08|pozol blanco con dulce coco|1|SOUTH|N
+09|tejate|1|SOUTH|N
+10|tascalate|1|SOUTH|N
+11|pozol de cacao|1|SOUTH|N
+12|huaraches de bistec|6|SOUTH|Y
+13|torta de chilaquiles|8|CENTRAL|N
+14|torta de tamal|6|CENTRAL|Y
+15|tamal frito|5|CENTRAL|Y
+16|picaditas|7|CENTRAL|Y
+17|garnachas|7|SOUTH|Y
+18|pipian|4|SOUTH|Y
+19|chiles rellenos|7|SOUTH|Y
+20|mollejas fritas|2|NORTH|Y
+21|totopos istmeños|1|SOUTH|N
+22|mango tierno con chile|7|SOUTH|N
+23|nanche con mezcal|1|SOUTH|N
+24|ensalada de tamarindo verde|7|SOUTH|N
+25|enchiladas de chocolate|2|NORTH|Y
+26|pollo al cacahuate|4|CENTRAL|Y
+27|elotes chorreados|7|NORTH|N
+28|chilaquites más picantes del mundo|10|NORTH|N
+

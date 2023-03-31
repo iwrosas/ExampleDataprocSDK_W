@@ -1,0 +1,49 @@
+{
+  "namespace": "KDIT",
+  "name": "t_kdit_foodie",
+  "doc": "Foodie Catalog",
+  "database": "master",
+  "type": "record",
+  "fields": [{
+            "name": "NAME",
+            "type": "string",
+            "legacyName": "",
+            "logicalFormat": "ALPHANUMERIC(64)",
+            "deleted": false,
+            "metadata": false,
+            "default": ""
+        }, {
+            "name": "PREFERENCES",
+            "type": "string",
+            "legacyName": "",
+            "logicalFormat": "ALPHANUMERIC(64)",
+            "deleted": false,
+            "metadata": false,
+            "default": ""
+        }, {
+            "name": "SPICY_TOLERANCE",
+            "type": "string",
+            "legacyName": "",
+            "logicalFormat": "ALPHANUMERIC(64)",
+            "deleted": false,
+            "metadata": false,
+            "default": ""
+        }, {
+            "name": "NATIONALITY",
+            "type": "string",
+            "legacyName": "",
+            "logicalFormat": "ALPHANUMERIC(64)",
+            "deleted": false,
+            "metadata": false,
+            "default": ""
+        }, {
+            "name": "GENRE",
+            "type": "string",
+            "legacyName": "",
+            "logicalFormat": "ALPHANUMERIC(64)",
+            "deleted": false,
+            "metadata": false,
+            "default": ""
+        }
+   ]
+}

@@ -1,0 +1,49 @@
+{
+  "namespace": "KDIT",
+  "name": "t_kdit_food",
+  "doc": "Food Catalog",
+  "database": "master",
+  "type": "record",
+  "fields": [{
+            "name": "CODE",
+            "type": "string",
+            "legacyName": "",
+            "logicalFormat": "ALPHANUMERIC(64)",
+            "deleted": false,
+            "metadata": false,
+            "default": ""
+        }, {
+            "name": "NAME",
+            "type": "string",
+            "legacyName": "",
+            "logicalFormat": "ALPHANUMERIC(64)",
+            "deleted": false,
+            "metadata": false,
+            "default": ""
+        }, {
+            "name": "SPICY_LEVEL",
+            "type": "string",
+            "legacyName": "",
+            "logicalFormat": "ALPHANUMERIC(64)",
+            "deleted": false,
+            "metadata": false,
+            "default": ""
+        }, {
+            "name": "ZONE",
+            "type": "string",
+            "legacyName": "",
+            "logicalFormat": "ALPHANUMERIC(64)",
+            "deleted": false,
+            "metadata": false,
+            "default": ""
+        }, {
+            "name": "CONTAINS_ANIMAL_PRODUCTS",
+            "type": "string",
+            "legacyName": "",
+            "logicalFormat": "ALPHANUMERIC(64)",
+            "deleted": false,
+            "metadata": false,
+            "default": ""
+        }
+   ]
+}
